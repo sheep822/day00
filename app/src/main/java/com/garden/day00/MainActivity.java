@@ -11,5 +11,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 		//爱是非法诶哦
+		//摄像头一个就
+		
     }
 }
